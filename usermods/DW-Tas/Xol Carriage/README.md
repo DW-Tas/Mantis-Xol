@@ -12,10 +12,11 @@ Testing and feedback are welcome at the Xol-Toolhead channel on the Armchair Eng
 ### Additional Hardware
 To accomodate design requirements, some additional hardware will be required when using this mount.
 Specifically, M2.5 heatsets are used in the feet of the Xol hotend mount.
+
 The dimentions of the heatests are
-thread: M2.5
-Lenght: 4mm
-Outer Diameter: 3.5mm
+* thread: M2.5
+* Lenght: 4mm
+* Outer Diameter: 3.5mm
 (M2.5x4x3.5)
 
 ### Acknowledgements
