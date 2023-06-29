@@ -46,3 +46,6 @@ Only the front faceplate parts and ducts are changed from the standard hotend mo
 ![cad1](images/cad1.png)
 
 ![cad2](images/cad2.png)
+<br/>
+<br/>
+<a href="https://www.buymeacoffee.com/dw.tas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
